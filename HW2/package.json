@@ -1,0 +1,22 @@
+{
+  "name": "alex_generate_password",
+  "version": "1.0.0",
+  "description": "alex_generate_password - is a library for generating random and unique passwords",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex188w/alex_generate_password.git"
+  },
+  "author": "alex188w",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex188w/alex_generate_password/issues"
+  },
+  "homepage": "https://github.com/alex188w/alex_generate_password#readme",
+  "dependencies": {
+    "alex_generate_password": "^1.0.0"
+  }
+}
